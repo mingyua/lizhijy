@@ -1,8 +1,8 @@
 <?php
 $host="localhost";
-$db_user="lizhijy";
-$db_pass="U2J4Q7u8";
-$db_name="lizhijy";
+$db_user="";
+$db_pass="";
+$db_name="";
 $timezone="Asia/Shanghai";
 $link=mysql_connect($host,$db_user,$db_pass);
 mysql_select_db($db_name,$link);
