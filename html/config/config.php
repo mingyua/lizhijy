@@ -1,0 +1,1 @@
+ <?php return array(    'DB_CONFIG' => array(        //数据库配置        'DB_HOST'=>'localhost',    //服务器地址        'DB_NAME' => 'lizhijy', // 数据库名        'DB_USER' => 'lizhijy', // 用户名        'DB_PWD' => 'U2J4Q7u8', // 密码        'DB_ENCODE'=>'utf8',//编码        'DB_PREFIX' => 'think_' // 数据库表前缀    ));?>
